@@ -1,0 +1,13 @@
+{
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#eef952",
+		"activityBar.foreground": "#000000",
+		"activityBar.activeBackground": "#81f2d8",
+		"statusBar.background": "#eef952",
+		"statusBar.foreground": "#000000",
+		"tab.activeBorderTop": "#faf8f8",
+		"editor.mouseWheelZoom": true
+	},
+	"window.zoomLevel": 0.5,
+	"editor.mouseWheelZoom": true
+}
